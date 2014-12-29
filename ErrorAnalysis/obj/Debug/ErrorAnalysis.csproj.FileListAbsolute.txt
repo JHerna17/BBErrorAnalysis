@@ -1,0 +1,6 @@
+c:\users\jherna\documents\visual studio 2013\Projects\ErrorAnalysis\ErrorAnalysis\bin\Debug\ErrorAnalysis.exe.config
+c:\users\jherna\documents\visual studio 2013\Projects\ErrorAnalysis\ErrorAnalysis\bin\Debug\ErrorAnalysis.exe
+c:\users\jherna\documents\visual studio 2013\Projects\ErrorAnalysis\ErrorAnalysis\bin\Debug\ErrorAnalysis.pdb
+c:\users\jherna\documents\visual studio 2013\Projects\ErrorAnalysis\ErrorAnalysis\obj\Debug\ErrorAnalysis.csprojResolveAssemblyReference.cache
+c:\users\jherna\documents\visual studio 2013\Projects\ErrorAnalysis\ErrorAnalysis\obj\Debug\ErrorAnalysis.exe
+c:\users\jherna\documents\visual studio 2013\Projects\ErrorAnalysis\ErrorAnalysis\obj\Debug\ErrorAnalysis.pdb

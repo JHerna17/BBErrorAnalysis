@@ -1,0 +1,6 @@
+C:\Users\JHerna\documents\visual studio 2013\Projects\ErrorAnalysis\ThresholdAnalysis\bin\Debug\ThresholdAnalysis.exe.config
+C:\Users\JHerna\documents\visual studio 2013\Projects\ErrorAnalysis\ThresholdAnalysis\bin\Debug\ThresholdAnalysis.exe
+C:\Users\JHerna\documents\visual studio 2013\Projects\ErrorAnalysis\ThresholdAnalysis\bin\Debug\ThresholdAnalysis.pdb
+C:\Users\JHerna\documents\visual studio 2013\Projects\ErrorAnalysis\ThresholdAnalysis\obj\Debug\ThresholdAnalysis.csprojResolveAssemblyReference.cache
+C:\Users\JHerna\documents\visual studio 2013\Projects\ErrorAnalysis\ThresholdAnalysis\obj\Debug\ThresholdAnalysis.exe
+C:\Users\JHerna\documents\visual studio 2013\Projects\ErrorAnalysis\ThresholdAnalysis\obj\Debug\ThresholdAnalysis.pdb
